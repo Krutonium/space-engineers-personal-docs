@@ -8,6 +8,7 @@ Documentation of Rules, Guidelines and Standards for Space Engineers Faction
 * A docking camera, preferably one block above or below the connector
 ### Component Regulations
 #### Naming Convention
+Note that naming regulations apply to *all* components, even if they are hidden, and also applies to **groups**.
 * All components must be prepended with an abbreviation for the ship's name.
   * For large ships, the zone/section of the ship should also be prepended.
     * If there are subzones that are unnamed (E.g. Hangar 01-10), the subzone number should be prepended as well. Leading zeroes must be added to maintain alphabetical sorting.  
