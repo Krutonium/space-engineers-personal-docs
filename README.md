@@ -1,5 +1,5 @@
-# space-engineers-personal-docs
-Documentation of Rules, Guidelines and Standards for our Space Engineers Faction
+# Space Engineers Faction Regulations
+Documentation of Rules, Guidelines and Standards for Space Engineers Faction
 ## Ship Regulations
 ### Part Requirements
 * A projector with a regularly updated blueprint.
