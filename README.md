@@ -13,10 +13,10 @@ Documentation of Rules, Guidelines and Standards for Space Engineers Faction
     * If there are subzones that are unnamed (E.g. Hangar 01-10), the subzone number should be prepended as well. Leading zeroes must be added to maintain alphabetical sorting.  
 * If there are multiple of the same components within a ship/zone/subzone, they should be appended with a unique letter. Leading letters (E.g. starting from AA) should be used only if there are more than 26 components.
 ##### Example:
-Ship: Deltawing
-Zone: Hangar 03
-Part: Hangar Door (first of 10)
-Name: DLT Hangar 03 Door A
+Ship: Deltawing  
+Zone: Hangar 03  
+Part: Hangar Door (first of 10)  
+Name: DLT Hangar 03 Door A  
 #### Hiding Components
 Please make sure to hide components! It eliminates a lot of the clutter in the terminal, *especially* when ships dock to a mothership. **Hiding a component does not exclude it from needing to follow the naming convention.**
 * If the component is not going to be regularly accessed **individually** from the terminal, it should be hidden from the terminal.
